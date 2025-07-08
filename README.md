@@ -25,4 +25,4 @@
 我们非常重视用户的隐私与安全，所有数据都采用高标准加密技术保护，确保你的个人信息不会被泄露。同时，我们的影片均来自合法授权渠道，保障每一部影片都是正版内容，安全可靠。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/yan7852/24899 ）</span>
